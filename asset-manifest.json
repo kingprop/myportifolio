@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yportifolio/static/css/main.f63df90c.chunk.css",
+    "main.js": "/yportifolio/static/js/main.aff4641f.chunk.js",
+    "main.js.map": "/yportifolio/static/js/main.aff4641f.chunk.js.map",
+    "runtime~main.js": "/yportifolio/static/js/runtime~main.d41bbc38.js",
+    "runtime~main.js.map": "/yportifolio/static/js/runtime~main.d41bbc38.js.map",
+    "static/css/2.04aae6c4.chunk.css": "/yportifolio/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.59ce4812.chunk.js": "/yportifolio/static/js/2.59ce4812.chunk.js",
+    "static/js/2.59ce4812.chunk.js.map": "/yportifolio/static/js/2.59ce4812.chunk.js.map",
+    "index.html": "/yportifolio/index.html",
+    "precache-manifest.f76715a403b356bd974794a9b22b37ec.js": "/yportifolio/precache-manifest.f76715a403b356bd974794a9b22b37ec.js",
+    "service-worker.js": "/yportifolio/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "/yportifolio/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.f63df90c.chunk.css.map": "/yportifolio/static/css/main.f63df90c.chunk.css.map"
+  }
+}
